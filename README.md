@@ -1,6 +1,5 @@
 # Segmentation-of-Plasma-Cells-in-Microscopic-Images-for-Multiple-Myeloma-Diagnosis
-![image](https://github.com/karthikjayant/Segmentation-of-Plasma-Cells-in-Microscopic-Images-for-Multiple-Myeloma-Diagnosis/assets/92135595/f50d00e1-449c-4495-b498-220045ebaf12)
-![image](https://github.com/karthikjayant/Segmentation-of-Plasma-Cells-in-Microscopic-Images-for-Multiple-Myeloma-Diagnosis/assets/92135595/70151c42-fd1a-4ab5-a493-be0374be78be)
+![image](https://github.com/karthikjayant/Segmentation-of-Plasma-Cells-in-Microscopic-Images-for-Multiple-Myeloma-Diagnosis/assets/92135595/f50d00e1-449c-4495-b498-220045ebaf12) ![image](https://github.com/karthikjayant/Segmentation-of-Plasma-Cells-in-Microscopic-Images-for-Multiple-Myeloma-Diagnosis/assets/92135595/70151c42-fd1a-4ab5-a493-be0374be78be)
 ![image](https://github.com/karthikjayant/Segmentation-of-Plasma-Cells-in-Microscopic-Images-for-Multiple-Myeloma-Diagnosis/assets/92135595/3ec8b11a-2ad8-4e45-8a9d-28de6a869d14)
 
 This project investigates computer vision and medical imaging, focusing on cellular structure segmentation in Multiple Myeloma (MM). This methodology combines image processing techniques like median filtering, watershed segmentation, and U-Net architectures. Using the IEEE ISBI 2021 Challenge SegPC-2021 dataset, the images were preprocessed to segment the nucleus and cytoplasm. Results demonstrate the effectiveness of these methods, highlighting the robustness of U-Net in intricate medical image analysis.
